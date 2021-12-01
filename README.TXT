@@ -23,4 +23,7 @@ USER INSTRUCTIONS:
 - The Genesis Block is already defined to get the blockchain ready and cannot be edited. The first block that you add will be block #2.
 
 
+![ss1](https://user-images.githubusercontent.com/54610672/144193813-0790a2b0-7fa2-45d8-be01-792f7169fb13.JPG)
 
+
+![ss2](https://user-images.githubusercontent.com/54610672/144193814-5b3099e9-ff84-4691-b270-4e0d6a8f47e1.JPG)
