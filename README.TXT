@@ -1,9 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: 		       Programming Project Build a Blockchain Using Java Language
 
 PURPOSE OF PROJECT: 	       Design and Understand Blockchain
@@ -27,3 +21,7 @@ USER INSTRUCTIONS:
 - Once you enter 0 to go back to the main menu, the new block will be added to the blockchain.
 
 - The Genesis Block is already defined to get the blockchain ready and cannot be edited. The first block that you add will be block #2.
+
+
+![ss1](https://user-images.githubusercontent.com/54610672/144193813-0790a2b0-7fa2-45d8-be01-792f7169fb13.JPG)
+![ss2](https://user-images.githubusercontent.com/54610672/144193814-5b3099e9-ff84-4691-b270-4e0d6a8f47e1.JPG)
