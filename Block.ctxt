@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=previousHash\ transactions
+comment1.target=Block(int,\ java.lang.String[])
+comment2.params=
+comment2.target=int\ getPreviousHash()
+comment3.params=
+comment3.target=java.lang.String[]\ getTransaction()
+comment4.params=
+comment4.target=int\ getBlockHash()
+numComments=5
